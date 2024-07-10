@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suplemento Premium - Saúde em Cápsulas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>Suplemento Premium</h1>
+            <p>Transforme sua saúde com nossos suplementos de alta qualidade</p>
+            <a href="#comprar" class="btn-primary">Compre Agora</a>
+        </div>
+    </header>
+
+    <section class="features">
+        <div class="container">
+            <h2>Por que escolher nosso produto?</h2>
+            <div class="feature-grid">
+                <div class="feature">
+                    <img src="feature1.jpg" alt="Alta Qualidade">
+                    <h3>Alta Qualidade</h3>
+                    <p>Nossos suplementos são fabricados com os melhores ingredientes disponíveis no mercado.</p>
+                </div>
+                <div class="feature">
+                    <img src="feature2.jpg" alt="Resultados Rápidos">
+                    <h3>Resultados Rápidos</h3>
+                    <p>Veja mudanças significativas em poucas semanas de uso regular.</p>
+                </div>
+                <div class="feature">
+                    <img src="feature3.jpg" alt="100% Natural">
+                    <h3>100% Natural</h3>
+                    <p>Produto totalmente natural, sem aditivos ou conservantes artificiais.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="testimonials">
+        <div class="container">
+            <h2>Depoimentos de Clientes</h2>
+            <div class="testimonial-grid">
+                <div class="testimonial">
+                    <p>"Este suplemento realmente mudou minha vida para melhor. Altamente recomendado!"</p>
+                    <h3>- João Silva</h3>
+                </div>
+                <div class="testimonial">
+                    <p>"Nunca me senti tão bem e saudável. Os resultados são surpreendentes."</p>
+                    <h3>- Maria Souza</h3>
+                </div>
+                <div class="testimonial">
+                    <p>"Produto de alta qualidade, com resultados rápidos e visíveis. Estou muito satisfeito."</p>
+                    <h3>- Carlos Lima</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="guarantee">
+        <div class="container">
+            <h2>Garantia de Satisfação</h2>
+            <p>Estamos tão confiantes na qualidade do nosso produto que oferecemos uma garantia de satisfação de 30 dias. Se você não estiver satisfeito, devolvemos seu dinheiro!</p>
+            <img src="garantia.png" alt="Garantia de Satisfação">
+        </div>
+    </section>
+
+    <section class="purchase" id="comprar">
+        <div class="container">
+            <h2>Garanta o seu agora</h2>
+            <p>Oferta especial por tempo limitado</p>
+            <div class="price-box">
+                <p><span class="price">R$ 99,90</span> por apenas R$ 79,90</p>
+                <a href="https://checkout.pagseguro.uol.com.br" class="btn-primary">Comprar Agora</a>
+            </div>
+            <div class="security-seals">
+                <img src="secure-payment.png" alt="Pagamento Seguro">
+                <img src="ssl-secure.png" alt="Site Seguro com SSL">
+                <img src="money-back-guarantee.png" alt="Garantia de Devolução de Dinheiro">
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Suplemento Premium. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
